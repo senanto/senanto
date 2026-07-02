@@ -31,12 +31,7 @@ Focus areas: reverse engineering, automation tooling, and low-level system progr
 ---
 
 ## GitHub Stats
-
-[![](https://visitcount.itsvg.in/api?id=senanto&icon=0&color=0)](https://github.com/senanto)
-
-![senanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=senanto&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senanto&layout=compact&theme=dark)
-
+![Views](https://komarev.com/ghpvc/?username=senanto&style=for-the-badge&color=blue)
 ---
 
 ## Contact

@@ -35,4 +35,6 @@ GitHub  : https://github.com/senanto
 ```
 
 
-![Views](https://komarev.com/ghpvc/?username=senanto&style=for-the-badge&color=blue) - Discord: [@senantogo](https://discord.com/users/1003331575976579204) - GitHub: [senanto](https://github.com/senanto)
+![Views](https://komarev.com/ghpvc/?username=senanto&style=for-the-badge&color=blue)<br>
+Discord: [@senantogo](https://discord.com/users/1003331575976579204)<br>
+GitHub: [senanto](https://github.com/senanto)

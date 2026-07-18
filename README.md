@@ -1,23 +1,10 @@
 # senanto
 
-Full Stack Developer · Web & Desktop Designer/Developer · Windows Reverse Engineer
-
----
-
-## About
-
 Full-stack web development, desktop application design, and Windows internals.  
 Focus areas: reverse engineering, automation tooling, and low-level system programming.
 
 ---
 
-## Skills
-
-- **Languages**: C++, Python, JavaScript, HTML/CSS, Node.js  
-- **Frameworks & Tools**: Express.js, EJS, Git, Windows API, x64/x86 debugging, DLL injection  
-- **Domains**: Full-stack web, desktop UI/UX, Windows RE, automation scripts
-
----
 
 ## Notable Projects
 

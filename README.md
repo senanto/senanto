@@ -28,23 +28,11 @@ senanto
 
 ```console
 ┌──(visitor㉿github)-[~/senanto]
-└─$ github --stats
-```
-![Views](https://komarev.com/ghpvc/?username=senanto&style=for-the-badge&color=blue)
-
-
-```console
-┌──(visitor㉿github)-[~/senanto]
 └─$ cat contact.txt
 
 Discord : https://discord.com/users/1003331575976579204
 GitHub  : https://github.com/senanto
 ```
 
-```console
-┌──(visitor㉿github)-[~/senanto]
-└─$ exit
 
-logout
-Connection to github closed.
-```
+![Views](https://komarev.com/ghpvc/?username=senanto&style=for-the-badge&color=blue) - Discord: [@senantogo](https://discord.com/users/1003331575976579204) - GitHub: [senanto](https://github.com/senanto)

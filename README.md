@@ -29,9 +29,9 @@ senanto
 ```console
 ┌──(visitor㉿github)-[~/senanto]
 └─$ github --stats
-
-![Views](https://komarev.com/ghpvc/?username=senanto&style=for-the-badge&color=blue)
 ```
+![Views](https://komarev.com/ghpvc/?username=senanto&style=for-the-badge&color=blue)
+
 
 ```console
 ┌──(visitor㉿github)-[~/senanto]
